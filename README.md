@@ -13,6 +13,13 @@
 - Expanding my knowledge in web development and system automation
 - Building projects that solve real-life challenges
 
+## 📊 GitHub Stats
+![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisgomelan&show_icons=true&theme=tokyonight)
+
+## 📈 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisgomelan&layout=compact&theme=tokyonight)
+
+
 ## 📫 Connect with Me
 - 📧 Email: [your-email@example.com](mailto:christiangomelan@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/yourusername]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/christian-gomelan-814247377/))
