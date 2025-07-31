@@ -15,7 +15,8 @@
 
 ## 📊 GitHub Stats & Top Languages
 
-| ![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisgomelan&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisgomelan&layout=compact&theme=tokyonight) |
+| ![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisgomelan&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisgomelan&layout=compact&theme=tokyonight) |
+
 | --- | --- |
 
 ## 📫 Connect with Me
