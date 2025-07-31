@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Christian Gomelan
 
-<!--
-**chrisgomelan/chrisgomelan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BSIT Student | PUP-Taguig**  
+💡 Passionate about technology, continuous learning, and creating innovative solutions to real-world problems.
 
-Here are some ideas to get you started:
+## 🚀 Skills & Tools
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** PHP, Laravel  
+- **Database:** MySQL  
+- **Other Tools:** WordPress (Elementor), Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Current Focus
+- Expanding my knowledge in web development and system automation
+- Building projects that solve real-life challenges
+
+## 📫 Connect with Me
+- 📧 Email: [your-email@example.com](mailto:christiangomelan@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/yourusername]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/christian-gomelan-814247377/))
