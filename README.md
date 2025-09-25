@@ -20,5 +20,4 @@
 
 
 ## 📫 Connect with Me
-- 📧 Email: [your-email@example.com](mailto:christiangomelan@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/yourusername]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/christian-gomelan-814247377/))
+- 📧 Email: [christiangomelan@gmail.com](mailto:christiangomelan@gmail.com)
