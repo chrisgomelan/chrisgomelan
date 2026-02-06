@@ -57,17 +57,6 @@
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=chrisgomelan&theme=vue-dark&no-frame=true&no-bg=false&margin-w=4&column=7)
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
@@ -110,12 +99,6 @@ const christian = {
 ### 💭 Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue-dark)
-
-### 📊 Profile Views
-
-![](https://komarev.com/ghpvc/?username=chrisgomelan&color=42B883&style=for-the-badge)
-
----
 
 **✨ "Code is like humor. When you have to explain it, it's bad." – Cory House**
 
