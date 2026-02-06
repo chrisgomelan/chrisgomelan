@@ -1,6 +1,6 @@
 <div align="center">
 
-![GitHub Profile Banner](https://ghrb.waren.build/banner?header=Christian+Gomelan+%F0%9F%91%8B&subheader=BSIT+Student+%7C+Web+Developer+%7C+Tech+Enthusiast&bg=1A1A1A-42B883&color=FFFFFF&headerfont=Permanent+Marker&subheaderfont=Roboto&watermarkpos=bottom-right)
+![GitHub Profile Banner](https://ghrb.waren.build/banner?header=Christian+Gomelan+%F0%9F%91%8B&subheader=Building+the+future%2C+one+line+of+code+at+a+time&bg=F3F4F6&color=1F2937&headerfont=Montserrat&subheaderfont=Kinewave&watermarkpos=bottom-right)
 <!-- Created with GitHub Repo Banner by Waren Gonzaga: https://ghrb.waren.build -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=42B883&center=true&vCenter=true&random=false&width=600&lines=Building+innovative+solutions;Passionate+about+web+development;Always+learning+new+technologies)](https://git.io/typing-svg)
