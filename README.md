@@ -1,8 +1,7 @@
 <div align="center">
 
-# 👋 Hi, I'm Christian Gomelan
-
-### 🎓 BSIT Student @ PUP-Taguig | 💻 Web Developer | 🚀 Tech Enthusiast
+![GitHub Profile Banner](https://ghrb.waren.build/banner?header=Christian+Gomelan+%F0%9F%91%8B&subheader=BSIT+Student+%7C+Web+Developer+%7C+Tech+Enthusiast&bg=1A1A1A-42B883&color=FFFFFF&headerfont=Permanent+Marker&subheaderfont=Roboto&watermarkpos=bottom-right)
+<!-- Created with GitHub Repo Banner by Waren Gonzaga: https://ghrb.waren.build -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=42B883&center=true&vCenter=true&random=false&width=600&lines=Building+innovative+solutions;Passionate+about+web+development;Always+learning+new+technologies)](https://git.io/typing-svg)
 
@@ -52,11 +51,24 @@
 
 <div align="center">
   
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chrisgomelan&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&include_all_commits=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=chrisgomelan&theme=vue-dark&hide_border=true" />
 
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisgomelan&theme=vue-dark&hide_border=true&layout=compact&langs_count=8" />
 
 </div>
 
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+![](https://github-profile-trophy.vercel.app/?username=chrisgomelan&theme=vue-dark&no-frame=true&no-bg=false&margin-w=4&column=7)
+
+</div>
+
+---
 
 ## 📈 Contribution Graph
 
@@ -99,6 +111,12 @@ const christian = {
 ### 💭 Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue-dark)
+
+### 📊 Profile Views
+
+![](https://komarev.com/ghpvc/?username=chrisgomelan&color=42B883&style=for-the-badge)
+
+---
 
 **✨ "Code is like humor. When you have to explain it, it's bad." – Cory House**
 
