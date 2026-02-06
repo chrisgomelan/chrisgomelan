@@ -50,11 +50,17 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chrisgomelan&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=chrisgomelan&theme=vue-dark&hide_border=true" />
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisgomelan&theme=vue-dark&hide_border=true&layout=compact&langs_count=8" />
+<a href="https://github.com/chrisgomelan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chrisgomelan&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&include_all_commits=true" alt="Christian's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=chrisgomelan&theme=vue-dark&hide_border=true" alt="Christian's GitHub Streak"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/chrisgomelan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisgomelan&theme=vue-dark&hide_border=true&layout=compact&langs_count=8" alt="Christian's Top Languages"/>
+</a>
 
 </div>
 
