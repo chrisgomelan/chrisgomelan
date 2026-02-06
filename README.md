@@ -2,46 +2,122 @@
 
 # 👋 Hi, I'm Christian Gomelan
 
-### 🎓 BSIT Student | PUP-Taguig
+### 🎓 BSIT Student @ PUP-Taguig | 💻 Web Developer | 🚀 Tech Enthusiast
 
-<p>
-  <i>Passionate about technology, continuous learning, and creating innovative solutions to real-world problems.</i>
-</p>
-
----
-
-### 🚀 Skills & Tools
-
-| **Category** | **Technologies** |
-| :--- | :--- |
-| **Frontend** | HTML, CSS, JavaScript |
-| **Backend** | PHP, Laravel |
-| **Database** | MySQL |
-| **Tools** | WordPress (Elementor), Git, GitHub |
-
----
-
-### 📊 GitHub Stats
-
-![chrisgomelan's Stats](https://github-readme-stats.vercel.app/api?username=chrisgomelan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-![chrisgomelan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisgomelan&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
-<br>
-
-### 📌 Current Focus
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=42B883&center=true&vCenter=true&random=false&width=600&lines=Building+innovative+solutions;Passionate+about+web+development;Always+learning+new+technologies)](https://git.io/typing-svg)
 
 </div>
 
-- 🔭 **Expanding knowledge** in web development and system automation.
-- 💡 **Building projects** that solve real-life challenges.
+---
 
-<div align="center">
+## 🚀 About Me
+
+💡 Passionate about technology and creating innovative solutions to real-world problems  
+🌱 Currently expanding my knowledge in **web development** and **system automation**  
+🎯 Goal: Build impactful projects that make a difference  
+📚 Continuous learner, always exploring new technologies
 
 ---
 
-### 📫 Connect with Me
+## 🛠️ Tech Stack
 
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:christiangomelan@gmail.com)
+<div align="center">
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Platforms
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chrisgomelan&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=chrisgomelan&theme=vue-dark&hide_border=true" />
+
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisgomelan&theme=vue-dark&hide_border=true&layout=compact&langs_count=8" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+![](https://github-profile-trophy.vercel.app/?username=chrisgomelan&theme=vue-dark&no-frame=true&no-bg=false&margin-w=4&column=7)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Christian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chrisgomelan&theme=vue&hide_border=true)](https://github.com/chrisgomelan)
+
+</div>
+
+---
+
+## 💼 Current Focus
+
+```javascript
+const christian = {
+    education: "BSIT @ PUP-Taguig",
+    currentlyLearning: ["Advanced Laravel", "Vue.js", "API Development"],
+    interests: ["Web Development", "System Automation", "Problem Solving"],
+    goals: ["Build scalable applications", "Contribute to open source"],
+    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+};
+```
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-christiangomelan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christiangomelan@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-chrisgomelan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chrisgomelan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue-dark)
+
+### 📊 Profile Views
+
+![](https://komarev.com/ghpvc/?username=chrisgomelan&color=42B883&style=for-the-badge)
+
+---
+
+**✨ "Code is like humor. When you have to explain it, it's bad." – Cory House**
+
+⭐️ From [chrisgomelan](https://github.com/chrisgomelan)
 
 </div>
