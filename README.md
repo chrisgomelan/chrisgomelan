@@ -50,16 +50,11 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-<a href="https://github.com/chrisgomelan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chrisgomelan&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&include_all_commits=true" alt="Christian's GitHub Stats"/>
-</a>
-
-<br/>
+  
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=chrisgomelan&theme=vue-dark&hide_border=true" />
 
 
 </div>
-
 
 ## 📈 Contribution Graph
 
