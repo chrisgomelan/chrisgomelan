@@ -2,7 +2,7 @@
 
 # Christian Gomelan
 
-*Web Developer** · Building on the web, tuning for the machines that read it too
+*Web Developer* · Building on the web, tuning for the machines that read it too
 
 `Taguig City, PH` · [github.com/chrisgomelan](https://github.com/chrisgomelan) · [linkedin.com/in/christiangomelan](https://www.linkedin.com/in/christiangomelan/)
 
