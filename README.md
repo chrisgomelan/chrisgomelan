@@ -1,111 +1,55 @@
 <div align="center">
 
-![GitHub Profile Banner](https://ghrb.waren.build/banner?header=Christian+Gomelan+%F0%9F%91%8B&subheader=Building+the+future%2C+one+line+of+code+at+a+time&bg=F3F4F6&color=1F2937&headerfont=Montserrat&subheaderfont=Kinewave&watermarkpos=bottom-right)
-<!-- Created with GitHub Repo Banner by Waren Gonzaga: https://ghrb.waren.build -->
+# Christian Gomelan
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=42B883&center=true&vCenter=true&random=false&width=600&lines=Building+innovative+solutions;Passionate+about+web+development;Always+learning+new+technologies)](https://git.io/typing-svg)
+**Front-end developer** · Building on the web, tuning for the machines that read it too
 
-</div>
-
----
-
-## 🚀 About Me
-
-💡 Passionate about technology and creating innovative solutions to real-world problems  
-🌱 Currently expanding my knowledge in **web development** and **system automation**  
-🎯 Goal: Build impactful projects that make a difference  
-📚 Continuous learner, always exploring new technologies
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools & Platforms
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+`Taguig City, PH` · [github.com/chrisgomelan](https://github.com/chrisgomelan) · [linkedin.com/in/christiangomelan](https://www.linkedin.com/in/christiangomelan/)
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+### about
 
-<div align="center">
-  
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=chrisgomelan&theme=vue-dark&hide_border=true" />
+BSIT student at PUP-Taguig, graduating October 2026. I build interfaces, ship them fast, and make sure both Google and the AI crawlers can find them. Comfortable moving between design, code, and the deployment pipeline that gets it all live.
 
-
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Christian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chrisgomelan&theme=vue&hide_border=true)](https://github.com/chrisgomelan)
-
-</div>
-
----
-
-## 💼 Current Focus
-
-```javascript
-const christian = {
-    education: "BSIT @ PUP-Taguig",
-    currentlyLearning: ["React.js", "Advanced Laravel", "Tailwind CSS", "API Development"],
-    interests: ["Web Development", "System Automation", "Problem Solving"],
-    goals: ["Build scalable applications", "Contribute to open source"],
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
+```
+currently learning   → Next.js, advanced Laravel, GEO strategy
+currently building   → production sites for schools & small businesses
+currently optimizing → for search engines and generative engines alike
 ```
 
 ---
 
-## 🌐 Connect With Me
+### stack
 
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-christiangomelan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christiangomelan@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-chrisgomelan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chrisgomelan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christiangomelan/)
-
-</div>
+**Frontend** — React, Next.js, JavaScript (ES6+), Tailwind CSS, Bootstrap, HTML5, CSS3
+**Backend** — Laravel, Node.js, PHP, MySQL
+**SEO / GEO** — Google Search Console, Bing Webmaster Tools, Lighthouse, structured data, technical SEO audits
+**Infra & Tools** — Cloudflare, Git, GitHub, Hostinger, VS Code
 
 ---
 
-<div align="center">
+### projects worth mentioning
 
-### 💭 Random Dev Quote
+**Library Management System** — Laravel, React, Inertia.js
+Circulation and attendance system with RFID/barcode integration, serving 1,000+ users in production across two schools.
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue-dark)
+**Gepestcon Co. Website** — Next.js, Cloudflare
+Promotional site with Cloudflare Turnstile spam protection, GSC/sitemap setup, and SEO-first structure.
 
-### 📊 Profile Views
-
-![](https://komarev.com/ghpvc/?username=chrisgomelan&color=42B883&style=for-the-badge)
+**PUP-Taguig Faculty Attendance System** — Laravel, Inertia.js, React
+Faculty-side scheduling and attendance request workflows.
 
 ---
 
-**✨ "Code is like humor. When you have to explain it, it's bad." – Cory House**
+### reach me
 
-⭐️ From [chrisgomelan](https://github.com/chrisgomelan)
+`christiangomelan@gmail.com`
+
+<div align="center">
+
+*code is easy to write. code that finds itself in a search result — that's the job.*
 
 </div>
