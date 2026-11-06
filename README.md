@@ -98,13 +98,22 @@ Built features for an internal pharmaceutical system in Laravel and MySQL, inclu
 
 <div align="center">
 
-![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisgomelan&show_icons=true&theme=transparent&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisgomelan&layout=compact&theme=transparent&hide_border=true)
-
 ![GitHub streak](https://streak-stats.demolab.com/?user=chrisgomelan&theme=transparent&hide_border=true)
 
-![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chrisgomelan&theme=github-compact&hide_border=true&bg_color=00000000)
-
 ![Profile views](https://komarev.com/ghpvc/?username=chrisgomelan&label=Profile%20views&style=for-the-badge)
+
+</div>
+
+---
+
+### contribution snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chrisgomelan/chrisgomelan/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chrisgomelan/chrisgomelan/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/chrisgomelan/chrisgomelan/output/github-snake.svg" />
+</picture>
 
 </div>
