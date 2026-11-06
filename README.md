@@ -4,7 +4,7 @@
 
 *Web Developer* · Building full-stack apps for schools, businesses, and teams
 
-`Taguig City, PH` · [github.com/chrisgomelan](https://github.com/chrisgomelan) · [linkedin.com/in/christiangomelan](https://www.linkedin.com/in/christiangomelan/)
+`Taguig City, PH` · [Portfolio](https://christiangomelan.dev/) · [github.com/chrisgomelan](https://github.com/chrisgomelan) · [linkedin.com/in/christiangomelan](https://www.linkedin.com/in/christiangomelan/)
 
 </div>
 
@@ -90,4 +90,21 @@ Built features for an internal pharmaceutical system in Laravel and MySQL, inclu
 
 ### reach me
 
-`christiangomelan@gmail.com`
+🌐 [christiangomelan.dev](https://christiangomelan.dev/) · `christiangomelan@gmail.com`
+
+---
+
+### github stats
+
+<div align="center">
+
+![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisgomelan&show_icons=true&theme=transparent&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisgomelan&layout=compact&theme=transparent&hide_border=true)
+
+![GitHub streak](https://streak-stats.demolab.com/?user=chrisgomelan&theme=transparent&hide_border=true)
+
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chrisgomelan&theme=github-compact&hide_border=true&bg_color=00000000)
+
+![Profile views](https://komarev.com/ghpvc/?username=chrisgomelan&label=Profile%20views&style=for-the-badge)
+
+</div>
